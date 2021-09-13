@@ -9,10 +9,6 @@ let gameStatus= document.getElementById("status");
 let showMySelection= document.getElementById("mySelection");
 let showSystemSelection= document.getElementById("systemSelection");
 
-
-
-
-
 play = (mySelection,systemSelection) =>
 {
     if(mySelection === systemSelection)
@@ -78,11 +74,6 @@ systemPlay = () =>
 {
     return value[random()];
 }
-
-
-
-
-
 rock.addEventListener("click",function(){
     let mySelection= "rock";
     showMySelection.textContent= mySelection;
