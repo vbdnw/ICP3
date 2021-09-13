@@ -2,11 +2,9 @@ body{
     margin-left: 12%;
     margin-right: 12%;
     margin-top: 3%;
-}
-h1,h3{
+}  h1,h3{
     color: #212F3D;
-}
-h2{
+}  h2{
     color: #2C3E50;
 }
 hr{
@@ -35,7 +33,6 @@ a:hover {
     font-family: customFont;
     src: url(Rambla-Regular.ttf);
 }
-
 div{
     font-family: customFont;
 }
