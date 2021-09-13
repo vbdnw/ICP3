@@ -1,0 +1,19 @@
+container-liquid{
+    margin-top: 5%;
+    margin-bottom: 4%;
+}
+
+body{
+
+    font-size: 1.5rem;
+}
+
+.container{
+    text-align: center;
+}
+
+h1{
+    text-align: center;
+    margin-bottom: 50px;
+    text-transform: capitalize;
+}
